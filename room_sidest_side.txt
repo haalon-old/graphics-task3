@@ -1,0 +1,19 @@
+obj-file room.obj
+width 1080
+height 1080
+wifi 2.4 2.6 -2
+camera-pos -3 -12 -8
+view-angle-x 90
+//view-angle-y is calculated automatically
+up 0 -0.5 1
+viewdir 0.2 1 0.5
+//right is calculated automatically
+wifi-pow 5000
+voxel-res 200
+alpha 0.02
+gamma 0.5
+outside 1
+iterations 100000
+AA-level 5
+filter-radius 2
+wifi-radius 0.2

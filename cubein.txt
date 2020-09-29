@@ -1,0 +1,14 @@
+obj-file cube.obj
+width 1080
+height 1080
+wifi 15 15 3
+camera-pos 0 0 39.9
+view-angle-x 120
+//view-angle-y is calculated automatically
+up 0 1 0
+right 1 0 0
+viewdir 0 0 -1
+wifi-pow 6000
+voxel-res 300
+alpha 0.9
+outside 0
